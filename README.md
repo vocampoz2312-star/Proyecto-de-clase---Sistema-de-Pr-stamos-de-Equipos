@@ -1,1 +1,1 @@
-# Proyecto-de-clase---Sistema-de-Pr-stamos-de-Equipos
+# Proyecto--Sistema-de-Prestamos-de-Equipos
